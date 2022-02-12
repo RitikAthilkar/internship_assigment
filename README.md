@@ -20,5 +20,11 @@ simply run these code in cammandprompt to install Libraries in your system or ju
 
 # Note
 Given Internship Assignment.ipynb file contain solution of each and every task assign to me to see work you just need to click on file and it will openup
+In order to access Detail.html file follow given steps
+1. click on Details.html file
+2. copy contain in raw form
+3. open notepad
+4. paste copied content
+5. save file with name Detail.html
 
-
+then you can access detail.html file on your system 
